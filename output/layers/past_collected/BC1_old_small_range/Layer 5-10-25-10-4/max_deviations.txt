@@ -1,0 +1,3 @@
+MSELoss:0.0132
+Difference_Equivalent Stress Maximum (Mpa):15.788658573530759
+Difference_Equivalent Elastic Strain Maximum:17.1656778095602
